@@ -24,9 +24,3 @@ The starter project has some HTML and CSS styling to display a static version of
 This Memory Game Project consists of few files to contribute or develop,
 
 To get started contributing, open **`js/app.js`** and begin building the Project/app's functionality in a Better way.
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
