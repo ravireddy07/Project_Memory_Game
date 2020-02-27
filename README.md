@@ -1,4 +1,7 @@
-# My Memory Game Project
+# My [Memory Game](https://ravireddy07.github.io/GoogleIndiaScholarship_PCC2_Project_Memory-Game/) Project
+
+[GitHub license](https://img.shields.io/github/issues/ravireddy07/GoogleIndiaScholarship_PCC2_Project_Memory-Game?style=flat-square)]
+
 ## Google India Scholarship-Udacity Front End Web Developer Nanodegree
 
 ## **Table of Contents**
@@ -7,6 +10,8 @@
 * [Contributing](#contributing)
 
 ## Instructions
+
+
 
 For proper Instructions do visit this following links.....
 
