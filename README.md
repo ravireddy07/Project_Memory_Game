@@ -1,6 +1,7 @@
-# My [Memory Game](https://ravireddy07.github.io/Project_Memory_Game/) Project
+# My Memory Game Project
 
 </br>
+
 ### [Play the Game](https://ravireddy07.github.io/Project_Memory_Game/)
 
 </br>
