@@ -1,4 +1,4 @@
-# My Memory Game Project
+# Memory Game
 
 </br>
 
